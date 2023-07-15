@@ -1,1 +1,1 @@
-# signal-frequency
+# vibration-frequency estimation
